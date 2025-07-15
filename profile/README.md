@@ -1,4 +1,4 @@
-# Torrex Lite — Offline Activation Guide
+# Torrex Lite/Pro — Offline Activation Guide
 
 [![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](#)
 
