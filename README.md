@@ -1,1 +1,1 @@
-Offline setup assistant for installing Torrex Lite torrent client.
+Step-by-step guide to download Torrex Lite for free on Windows with torrent streaming support.
